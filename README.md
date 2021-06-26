@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muzzammilhusen
 - 👀 I’m interested in React Developer job, need help to land a job..
-- 🌱 I’m currently learning React Hooks & Redux...
+- 🌱 Completed certification course in Modern React with Redux
 - 📫 How to reach me => muzzammilbhatti@gmail.com...
 
 <!---
